@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Builds
+.dist/
+dist/
+
+# Editor/OS
+.vscode/
+.DS_Store
